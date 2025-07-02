@@ -1,4 +1,4 @@
-# Git & GitHub Workshop
+# Git & GitHub Workshop -hi
 
 ## Intro
 > _ADD LATER_
