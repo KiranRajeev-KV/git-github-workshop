@@ -1,3 +1,4 @@
-print("Krithik Narayanan R")
-print("RKN-06")
-print("CB.SC.U4CSE24425")
+print("Name: Krithik Narayanan R")
+print("GitHub Username: RKN-06")
+print("Roll No.: CB.SC.U4CSE24425")
+
