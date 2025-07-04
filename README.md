@@ -1,7 +1,19 @@
 # Git & GitHub Workshop
 
 ## Intro
-> _ADD LATER_
+This repository is part of the **Git & GitHub Workshop** conducted under **ACM Amrita Summer of Code (ASoC)** on **2nd July 2025**.
+
+The workshop is designed to introduce students to **version control using Git** and **collaborative development with GitHub**. Whether you're working on personal projects or contributing to open-source, version control is an essential skill for every developer.
+
+In this repo, you'll find:
+
+- Step-by-step instructions for installing and configuring Git  
+- Essential Git commands and workflows  
+- Guidelines for creating branches and managing changes  
+- Best practices for commit messages and pull requests  
+- Instructions to contribute effectively to GitHub repositories
+
+This serves as a hands-on reference guide both during and after the workshop.
 
 ## Installing Git & GitHub CLI
 
@@ -290,8 +302,22 @@ Bonus Tips:
 
 ---
 
-## Workshop Conducted By
+## Additional Resources
 
-> _To be added_
+Here are some helpful resources to explore Git and GitHub further:
+
+- [Katie's Oh-Shit-Git!](https://ohshitgit.com/) – Fun and practical Git commands for when things go wrong
+- [Learn Git Branching](https://learngitbranching.js.org/) – Interactive visual Git tutorials
+- [Visualizing Git](http://git-school.github.io/visualizing-git/) – A simple tool to visualize how Git works under the hood
+- [Git SCM](https://git-scm.com/) – Official Git documentation and downloads
+- [GitHub Flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) – Guide to writing and formatting Markdown on GitHub
+
+---
+
+## Workshop Conducted By
+- [Vijay S B](https://github.com/vijay-sb)
+- [Nandgopal R Nair](https://github.com/Nandgopal-R)
+- [Adithya R Menon](https://github.com/Adithya-Menon-R)
+- [Kiran Rajeev](https://github.com/KiranRajeev-KV)
 
 ---
