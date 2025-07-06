@@ -306,11 +306,12 @@ Bonus Tips:
 
 Here are some helpful resources to explore Git and GitHub further:
 
-- [Katie's Oh-Shit-Git!](https://ohshitgit.com/) – Fun and practical Git commands for when things go wrong
-- [Learn Git Branching](https://learngitbranching.js.org/) – Interactive visual Git tutorials
-- [Visualizing Git](http://git-school.github.io/visualizing-git/) – A simple tool to visualize how Git works under the hood
-- [Git SCM](https://git-scm.com/) – Official Git documentation and downloads
-- [GitHub Flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) – Guide to writing and formatting Markdown on GitHub
+- [Katie's Oh-Shit-Git!](https://ohshitgit.com/) – Fun and practical Git commands for when things go wrong  
+- [Learn Git Branching](https://learngitbranching.js.org/) – Interactive visual Git tutorials  
+- [Visualizing Git](http://git-school.github.io/visualizing-git/) – A simple tool to visualize how Git works under the hood  
+- [Git SCM](https://git-scm.com/) – Official Git documentation and downloads  
+- [GitHub Flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) – Guide to writing and formatting Markdown on GitHub  
+- [Oh My Git!](https://ohmygit.org/) – An open-source game that teaches Git through visualization and gameplay (suggested by [@JestiferHarold](https://github.com/JestiferHarold))
 
 ---
 
